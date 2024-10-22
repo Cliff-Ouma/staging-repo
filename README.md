@@ -1,3 +1,3 @@
 #TRIALS
 
-Welcome.
+Welcome!
